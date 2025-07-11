@@ -104,9 +104,3 @@ temp/
 
 # Remix specific
 .server/
-
-# Project specific
-# Ignore build directories in sub-apps
-app-*/build/
-app-*/node_modules/
-app-*/.__mf__temp/ 
